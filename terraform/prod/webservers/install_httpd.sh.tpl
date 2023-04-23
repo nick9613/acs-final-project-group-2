@@ -24,7 +24,7 @@ echo "<!DOCTYPE html>
             <strong style=color:#FF0000;>
                 BABAJIDE FATOKUN<br>
                 JENNIFER KURUGH<br>
-                NIKHITHA NIXON<br>
+                NIKHITHA REKHA NIXON<br>
                 PRINCE DENEDO<br>
             </strong>
             <br>
